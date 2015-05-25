@@ -49,6 +49,27 @@
 		{
 			echo "<br>";
 		}
+		if ((($birthmonth == "april") && ($birthday >="20")) || ($birthmonth == "may" && ($birthday >="1" && $birthday <="20")))
+		{
+			echo "<br>";
+			echo "<h2>your astrological sign is Taurus</h2>";
+		}
+		else
+		{
+			echo "<br>";
+		}
+		if ((($birthmonth == "may") && ($birthday >="21")) || ($birthmonth == "june" && ($birthday >="1" && $birthday <="20")))
+		{
+			echo "<br>";
+			echo "<h2>your astrological sign is Gemini</h2>";
+		}
+		else
+		{
+			echo "<br>";
+		}
+
+
+
 
 		?>
 
