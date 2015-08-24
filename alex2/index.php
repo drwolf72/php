@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Welcome to Number Converter</h1>
+<h1>Welcome to Number Converter. This thing is very useful.</h1>
 
 	<form method="post" id="form" action="result.php">
 
