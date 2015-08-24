@@ -16,7 +16,7 @@
 
 	</form>
 
-<p> Dr wolf is cool!!</p>
+<p> Dr wolf is awesome!!</p>
 
 </body>
 </html>
